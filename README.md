@@ -4,8 +4,8 @@
 
 ## Содержание курса
 
-   — 85 уроков
-   — 297 тестов
+1. 85 уроков
+2. 297 тестов
 
 ### Разделы курса
 1. **Введение в Explainable AI**  
@@ -45,8 +45,8 @@ Repository of the first Russian-language course on Explainable AI (XAI). The cou
 
 ## Course content
 
-— 85 lessons
-— 297 tests
+1. 85 lessons
+2. 297 tests
 
 ### Course sections
 1. **Introduction to Explainable AI**
