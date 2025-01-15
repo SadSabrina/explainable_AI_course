@@ -2,11 +2,10 @@
 
 Репозиторий первого русскоязычного курса по Explainable AI (XAI). Курс создан для того, чтобы помочь изучить методы интерпретации и объяснения моделей машинного и глубокого обучения. Курс помогает погрузиться в область explainable AI: от азов и треминологии, до глубокого анализа моделей. 
 
-
 ## Содержание курса
 
-— 85 уроков
-— 297 тестов
+   — 85 уроков
+   — 297 тестов
 
 ### Разделы курса
 1. **Введение в Explainable AI**  
@@ -36,3 +35,44 @@
 **Полная программа курса доступна здесь:** https://stepik.org/a/198640
 **Ссылка на курс:** https://stepik.org/a/198640
 **Бесплатная часть курса:** https://stepik.org/course/228094
+**Язык курса:** русский
+
+_______________________
+
+# Course "Explainable AI" (Explainable Artificial Intelligence)
+
+Repository of the first Russian-language course on Explainable AI (XAI). The course was created to help study methods for interpreting and explaining machine and deep learning models. The course helps to immerse yourself in the field of explainable AI: from the basics and terminology to deep analysis of models.
+
+## Course content
+
+— 85 lessons
+— 297 tests
+
+### Course sections
+1. **Introduction to Explainable AI**
+- Why do we need model interpretation?
+- Overview of XAI application areas.
+
+2. **Basic XAI methods**
+— ICE and Partial dependence plots;
+— ALE;
+— CPO;
+2. **Basic explanation methods: theory and practice**
+- SHAP method.
+- LIME method.
+- Counterfactual explanations.
+- Permutation importance
+3. **Interpretable models**
+- Description and justification of all interpretable ML models
+- Decision trees as interpretable models
+- Subtleties of ensemble interpretation.
+4. **Interpretation of deep neural networks**
+- Gradient methods: Salinecy map, CAM, GRAD-CAM, Vanilla Gradients, LRP etc.
+- Concept-based methods: XRAI, T-CAV, CBM, CEM
+- Attention methods
+- LLM: coming soon
+
+**The full course program is available here:** https://stepik.org/a/198640
+**Link to the course:** https://stepik.org/a/198640
+**Free part of the course:** https://stepik.org/course/228094
+**Language:** RUS
